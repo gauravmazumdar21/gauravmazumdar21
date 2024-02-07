@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Mazumder</h1>
 <h3 align="center">A passionate DevOps Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [75 Days of Data Science & DevOps]([https://github.com/gauravmazumdar21/90DaysOfDevOps](https://github.com/gauravmazumdar21/75-Days-DataScience-DevOps)
+- 🔭 I’m currently working on [75 Days of Data Science and DevOps]([https://github.com/gauravmazumdar21/90DaysOfDevOps](https://github.com/gauravmazumdar21/75-Days-DataScience-DevOps)
 
-- 🌱 I’m currently learning ** Data Science & DevOps**
+- 🌱 I’m currently learning ** Data Science and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravmazumdar21?tab=repositories](https://github.com/gauravmazumdar21?tab=repositories)
 
